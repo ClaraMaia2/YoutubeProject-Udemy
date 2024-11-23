@@ -63,6 +63,8 @@ To run this project, ensure you have the following:
    ```  
    flutter run
    ```
+
+---
    
 ## 📁 Project Structure
 
@@ -76,8 +78,14 @@ lib/
 └── api/                   # API and backend service files  
 ```
 
+---
+
 ## 📜 License
 
 This project is for learning purposes only and is not intended for production use. Feel free to explore and learn from it!
 
+---
+
 ## ⭐ If you found this project helpful, consider giving it a star!
+
+<br>

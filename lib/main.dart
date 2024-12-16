@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'pages/home_page.dart';
+import 'package:youtube_project/pages/initial_page.dart';
 
 void main() {
   runApp(
     const MaterialApp(
-      home: HomePage(),
+      home: InitialPage(),
       debugShowCheckedModeBanner: false,
     ),
   );

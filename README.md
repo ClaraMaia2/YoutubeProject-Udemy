@@ -43,7 +43,7 @@ To run this project, ensure you have the following:
    gh repo clone ClaraMaia2/YoutubeProject-Udemy
    ```
    
-   or [download](https://codeload.github.com/ClaraMaia2/YoutubeProject-Udemy/zip/refs/heads/main?token=AYPBYZUJQJK3SHXOUMO6LKLHIIYQW) it.
+   or [download](https://github.com/user-attachments/files/18156267/YoutubeProject-Udemy-main.zip) it.
    
 3. **Install Dependencies**:
    Run the following command to install all required packages.
